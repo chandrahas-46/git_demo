@@ -1,2 +1,2 @@
 # git_demo
-testing
+This is git info repo
